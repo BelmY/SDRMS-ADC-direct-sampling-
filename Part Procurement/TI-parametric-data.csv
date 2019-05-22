@@ -1,0 +1,52 @@
+﻿"Resolution: 10 to 32"
+"Sample rate: 200 to 6400"
+"Number of input channels: 1 to 2"
+"Interface: JESD204A,JESD204B,JESD204C"
+"Analog input BW: 800 to 8000"
+"=HYPERLINK(""http://www.ti.com/data-converters/adc-circuit/products.html?pqs=paqs&familyid=390#p84=10;32&p157max=200;6400&p1028=1;2&p158=JESD204A;JESD204B;JESD204C&p300=800;8000"", ""View Selection Tool on TI.com"")"
+
+"NOTE: The table below does not have formatting applied."
+"Select the entire sheet (ctrl+A) and apply"
+"""Auto-fit column width"" to make all information visible"
+"(Format -> Column -> Autofit column width)"
+
+"Part number","Order Now","Resolution
+(Bits)","Sample rate
+(Max)
+(MSPS)","Number of input channels","Interface","SubFamily","INL
+(Max)
+(+/-LSB)","SNR
+(dB)","SFDR
+(dB)","Power consumption
+(Typ)
+(mW)","Architecture","Operating temperature range
+(C)","Rating","Package Group","Package size: mm2:W x L (PKG)","Approx. price
+(US$)","Analog input BW
+(MHz)","Status"
+"ADS42JB49 - Dual-Channel, 14-Bit, 250-MSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADS42JB49/samplebuy"",""Order Now"")","14","250","2","JESD204B","High-speed ADCs (>10MSPS)","8","75","95","1700","Pipeline","-40 to 85","Catalog","VQFN|64","81 mm2: 9 x 9 (VQFN|64)","125.00 | 1ku","900",ACTIVE
+"ADS42JB69 - Dual-Channel, 16-Bit, 250-MSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADS42JB69/samplebuy"",""Order Now"")","16","250","2","JESD204B","High-speed ADCs (>10MSPS)","3","75.9","95","1700","Pipeline","-40 to 85","Catalog","VQFN|64","81 mm2: 9 x 9 (VQFN|64)","185.00 | 1ku","900",ACTIVE
+"ADC14X250 - 14-Bit, 250-MSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC14X250/samplebuy"",""Order Now"")","14","250","1","JESD204B","High-speed ADCs (>10MSPS)","0.27","71.1","93","584","Pipeline","-40 to 85","Catalog","VQFN|32","25 mm2: 5 x 5 (VQFN|32)","75.00 | 1ku","800",ACTIVE
+"ADS54J69 - Dual-Channel, 16-Bit, 500-MSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADS54J69/samplebuy"",""Order Now"")","16","500","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","73","91","2700","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","486.45 | 100u","1200",ACTIVE
+"ADS54J20 - Dual-Channel, 12-Bit, 1.0-GSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADS54J20/samplebuy"",""Order Now"")","12","1000","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","67.8","86","2700","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","387.45 | 100u","1200",ACTIVE
+"ADS54J40 - Dual-Channel, 14-Bit, 1.0-GSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADS54J40/samplebuy"",""Order Now"")","14","1000","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","69","86","2700","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","584.45 | 100u","1200",ACTIVE
+"ADS54J60 - Dual-Channel, 16-Bit, 1.0-GSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADS54J60/samplebuy"",""Order Now"")","16","1000","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","70","86","2700","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","704.45 | 100u","1200",ACTIVE
+"ADS54J42 - Dual-Channel, 14-Bit, 625-MSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADS54J42/samplebuy"",""Order Now"")","14","625","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","71","85","1940","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","377.45 | 100u","1200",ACTIVE
+"ADC16DX370 - Dual-Channel, 16-Bit, 370-MSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC16DX370/samplebuy"",""Order Now"")","16","370","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","69.8","85","1607","Pipeline","-40 to 85","Catalog","WQFN|56","64 mm2: 8 x 8 (WQFN|56)","265.00 | 1ku","800",ACTIVE
+"ADC31JB68 - 16-Bit, 500-MSPS Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC31JB68/samplebuy"",""Order Now"")","16","500","1","JESD204B","High-speed ADCs (>10MSPS)"," --- ","70.6","83","915","Pipeline","-40 to 85","Catalog","WQFN|40","36 mm2: 6 x 6 (WQFN|40)","181.50 | 100u","1300",ACTIVE
+"ADC12DJ2700 - 12-Bit, Dual 2.7-GSPS or Single 5.4-GSPS, RF-Sampling Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC12DJ2700/samplebuy"",""Order Now"")","12","2700,
+5400","2,
+1","JESD204B","High-speed ADCs (>10MSPS)"," --- ","56.7","71","2700","Folding Interpolating","-40 to 85","Catalog","FCBGA|144","See datasheet (FCBGA)","1619.50 | 100u","8000",ACTIVE
+"ADC12J4000 - 12-Bit, 4.0-GSPS, RF Sampling Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC12J4000/samplebuy"",""Order Now"")","12","4000","1","JESD204B","High-speed ADCs (>10MSPS)","2","55","71","2000","Folding Interpolating","-40 to 85","Catalog","VQFN|68","100 mm2: 10 x 10 (VQFN|68)","1949.00 | 100u","3300",ACTIVE
+"ADC12J2700 - 12-Bit, 2.7-GSPS, RF Sampling Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC12J2700/samplebuy"",""Order Now"")","12","2700","1","JESD204B","High-speed ADCs (>10MSPS)","2","55","71","1800","Folding Interpolating","-40 to 85","Catalog","VQFN|68","100 mm2: 10 x 10 (VQFN|68)","1024.80 | 100u","3300",ACTIVE
+"ADC12J1600 - 12-Bit, 1.6-GSPS, RF Sampling Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC12J1600/samplebuy"",""Order Now"")","12","1600","1","JESD204B","High-speed ADCs (>10MSPS)","2","55","70","1600","Folding Interpolating","-40 to 85","Catalog","VQFN|68","100 mm2: 10 x 10 (VQFN|68)","658.20 | 100u","3300",ACTIVE
+"AFE7422 - Dual-channel RF-sampling AFE with 14-bit 9-GSPS DAC and 3-GSPS ADC with bypass mode","=HYPERLINK(""https://www.ti.com/product/AFE7422/samplebuy"",""Order Now"")","14","3000","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","60","70","8200","Pipeline","-40 to 85","Catalog","FCBGA|400","See datasheet (FCBGA)","1249.90 | 100u","6000",ACTIVE
+"ADC32RF45 - Dual-Channel, 14-Bit, 3-GSPS RF-Sampling Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC32RF45/samplebuy"",""Order Now"")","14","3000","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","60.9","67","6400","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","1674.50 | 100u","3200",ACTIVE
+"ADC32RF42 - Dual-Channel, 14-Bit, 1.5-GSPS RF-Sampling Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC32RF42/samplebuy"",""Order Now"")","14","1500","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","61.1","67","4000","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","944.50 | 100u","3200",ACTIVE
+"ADC12DJ3200QML-SP - Space grade, 12-bit, dual 3.2-GSPS or single 6.4-GSPS, RF-sampling analog-to-digital converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC12DJ3200QML-SP/samplebuy"",""Order Now"")","12","3200,
+6400","2,
+1","JESD204B","High-speed ADCs (>10MSPS)"," --- ","56.6","67","3000","Folding Interpolating","-55 to 125,
+25 to 25","Space","CLGA|196","225 mm2: 15 x 15 (CLGA|196)"," --- ","7300",PREVIEW
+"ADC12DJ3200 - 12-bit, dual 3.2-GSPS or single 6.4-GSPS, RF-sampling analog-to-digital converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC12DJ3200/samplebuy"",""Order Now"")","12","3200,
+6400","2,
+1","JESD204B","High-speed ADCs (>10MSPS)"," --- ","56.6","67","3000","Folding Interpolating","-40 to 85","Catalog","FCBGA|144","See datasheet (FCBGA)","1919.50 | 100u","8000",ACTIVE
+"ADC32RF44 - Dual-Channel, 14-Bit, 2.6-GSPS RF-Sampling Analog-to-Digital Converter (ADC)","=HYPERLINK(""https://www.ti.com/product/ADC32RF44/samplebuy"",""Order Now"")","14","2600","2","JESD204B","High-speed ADCs (>10MSPS)"," --- ","61.2","65","5820","Pipeline","-40 to 85","Catalog","VQFN|72","100 mm2: 10 x 10 (VQFN|72)","1498.00 | 100u","3200",ACTIVE
